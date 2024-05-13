@@ -27,3 +27,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Aula sobre condicionais
+
+``` condicionais para renderização de imagens
+v-if,v-else-if,v-else    
+Podemos ter quantos quisermos dessas estruturas, porém devemos ficar atentos para as suas estruturas!
+``` 
